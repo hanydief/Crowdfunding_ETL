@@ -21,7 +21,7 @@ The instructions for this mini project are divided into the following subsection
 
 category DataFrame
 
-![P1-Category](https://github.com/hanydief/Crowdfunding_ETL/blob/main/Outputs/category.png)
+![P1-Category](https://github.com/hanydief/Crowdfunding_ETL/blob/main/Outputs/Category.png)
 
 
 2- Export the category DataFrame as category.csv and save it to your GitHub repository.
