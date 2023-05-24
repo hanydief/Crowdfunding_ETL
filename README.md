@@ -1,6 +1,10 @@
 # Crowdfunding_ETL
 Project-2 ETL_Mini_Project
 
+# Contributors:
+- Cecilia Rosete -- [Cecilia Rosete](https://github.com/CiciRose)
+- Hany Dief -- [Hany Dief](https://github.com/hanydief)
+
 
 
 # Instructions
@@ -21,7 +25,7 @@ The instructions for this mini project are divided into the following subsection
 
 category DataFrame
 
-![P1-Category](https://github.com/hanydief/Crowdfunding_ETL/blob/main/Outputs/Category.png)
+![P1-Category](https://github.com/hanydief/Crowdfunding_ETL/blob/main/Outputs/category.png)
 
 
 2- Export the category DataFrame as category.csv and save it to your GitHub repository.
