@@ -5,7 +5,9 @@ Project-2 ETL_Mini_Project
 - Cecilia Rosete -- [Cecilia Rosete](https://github.com/CiciRose)
 - Hany Dief -- [Hany Dief](https://github.com/hanydief)
 
-
+# Requirements before running notebook:
+1. openpyxl 3.1.2 in required
+2. engine='openpyxl' is required after the path
 
 # Instructions
 The instructions for this mini project are divided into the following subsections:
@@ -25,7 +27,7 @@ The instructions for this mini project are divided into the following subsection
 
 category DataFrame
 
-![P1-Category](https://github.com/hanydief/Crowdfunding_ETL/blob/main/Outputs/category.png)
+![P1-Category](https://github.com/hanydief/Crowdfunding_ETL/blob/main/Outputs/Category.png)
 
 
 2- Export the category DataFrame as category.csv and save it to your GitHub repository.
