@@ -5,7 +5,9 @@ Project-2 ETL_Mini_Project
 - Cecilia Rosete -- [Cecilia Rosete](https://github.com/CiciRose)
 - Hany Dief -- [Hany Dief](https://github.com/hanydief)
 
-
+# Requirements before running notebook:
+1. openpyxl 3.1.2 is minimum version required
+2. engine='openpyxl' is required after the path
 
 # Instructions
 The instructions for this mini project are divided into the following subsections:
